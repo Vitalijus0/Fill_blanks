@@ -10,7 +10,7 @@ cffi==1.14.5
 chardet==4.0.0
 click==7.1.2
 contextvars==2.4
-cymem==2.0.5
+#cymem==2.0.5
 dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.7.1
